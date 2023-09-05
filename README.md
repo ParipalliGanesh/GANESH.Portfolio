@@ -1,2 +1,2 @@
-# GANESH.Portfolio
+# GANESH.Portfolio.github.io
 MY PORTFOLIO
